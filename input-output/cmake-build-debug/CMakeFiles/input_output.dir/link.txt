@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/input_output.dir/main.cpp.o  -o input_output 

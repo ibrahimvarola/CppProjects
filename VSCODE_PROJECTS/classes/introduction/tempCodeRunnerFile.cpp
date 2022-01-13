@@ -1,0 +1,14 @@
+void setCourseName(string name)
+        {
+            courseName = name;
+        }
+        
+        string getCourseName() const
+        {
+            return courseName;
+        }
+
+        void displayMessage() const
+        {
+            cout << "Welcome to the grade book for: " << getCourseName() << "!" << endl;
+        }

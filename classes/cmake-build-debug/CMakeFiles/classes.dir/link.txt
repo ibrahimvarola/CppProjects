@@ -1,1 +1,1 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/classes.dir/main.cpp.o  -o classes 
+/usr/bin/c++ -g -rdynamic CMakeFiles/classes.dir/main.cpp.o -o classes 

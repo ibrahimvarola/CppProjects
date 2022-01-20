@@ -1,3 +1,3 @@
-All of these examples copied from https://github.com/marmara-mekatronik/MRM3049-21/blob/main/Kodlar/Functions/main.cpp
+All of these examples copied from https://github.com/marmara-mekatronik/MRM3049-21/blob/main/Kodlar/Functions/
 
-These codes created by Huseyin Yuce.
+These codes are created by Huseyin Yuce.
